@@ -14,12 +14,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot1.png)
+![](./screenshot2.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Single price grid component](https://danielh27.github.io/single-price-grid-component/)
 
 ## My process
 
@@ -28,7 +29,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
 ### Useful resources
